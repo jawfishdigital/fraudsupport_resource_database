@@ -1,0 +1,686 @@
+[
+ {
+   "FIELD1": "Federal Bureau of Investigation (FBI)"
+ },
+ {
+   "FIELD1": "Federal Trade Commission (FTC)"
+ },
+ {
+   "FIELD1": "AARP"
+ },
+ {
+   "FIELD1": "CIS"
+ },
+ {
+   "FIELD1": "CSN"
+ },
+ {
+   "FIELD1": "Western Union"
+ },
+ {
+   "FIELD1": "MoneyGram"
+ },
+ {
+   "FIELD1": "CISA "
+ },
+ {
+   "FIELD1": "DHS"
+ },
+ {
+   "FIELD1": "FBI Internet Crime Complaint Center (IC3)"
+ },
+ {
+   "FIELD1": "Airbnb"
+ },
+ {
+   "FIELD1": "Apartments.com"
+ },
+ {
+   "FIELD1": "Ebay"
+ },
+ {
+   "FIELD1": ""
+ },
+ {
+   "FIELD1": "Telesign"
+ },
+ {
+   "FIELD1": "Trend Micro"
+ },
+ {
+   "FIELD1": "International Consumer Protection Enforcement Network (ICPEN)"
+ },
+ {
+   "FIELD1": ""
+ },
+ {
+   "FIELD1": "OVC Resource Directory"
+ },
+ {
+   "FIELD1": "Better Business Bureau (BBB)"
+ },
+ {
+   "FIELD1": "Consumer Fraud Protection Bureau (CFPB)"
+ },
+ {
+   "FIELD1": "National Center for Victims of Crime (NCVC)"
+ },
+ {
+   "FIELD1": "TeleSign"
+ },
+ {
+   "FIELD1": "State Consumer Protection Office "
+ },
+ {
+   "FIELD1": "OVC Resource Directory"
+ },
+ {
+   "FIELD1": "US Department of Justice"
+ },
+ {
+   "FIELD1": "Google"
+ },
+ {
+   "FIELD1": "Cybercrime Support Network (CSN)"
+ },
+ {
+   "FIELD1": "Identity Theft Resource Center (ITRC) "
+ },
+ {
+   "FIELD1": "Experian"
+ },
+ {
+   "FIELD1": "Equifax"
+ },
+ {
+   "FIELD1": "FRAUD!ORG"
+ },
+ {
+   "FIELD1": "Office of the United States Attorney:Western Dist. of Washington"
+ },
+ {
+   "FIELD1": "National Crime Victim Bar"
+ },
+ {
+   "FIELD1": "Federal Deposit Insurance Corpration  (FDIC)"
+ },
+ {
+   "FIELD1": "Consumer Finance Protection Bureau (CFPB) "
+ },
+ {
+   "FIELD1": "Technology Safety"
+ },
+ {
+   "FIELD1": "Facebook"
+ },
+ {
+   "FIELD1": "Instagram"
+ },
+ {
+   "FIELD1": "LinkedIn"
+ },
+ {
+   "FIELD1": "Twitter "
+ },
+ {
+   "FIELD1": "YouTube "
+ },
+ {
+   "FIELD1": "Cyber Civil Rights Initiative(CCRI) "
+ },
+ {
+   "FIELD1": "Thorn "
+ },
+ {
+   "FIELD1": "OVC Directory of Crime Victim Services "
+ },
+ {
+   "FIELD1": "Stay Safe Online"
+ },
+ {
+   "FIELD1": "Connect Safely "
+ },
+ {
+   "FIELD1": "AOL "
+ },
+ {
+   "FIELD1": "Craiglist "
+ },
+ {
+   "FIELD1": "Gmail "
+ },
+ {
+   "FIELD1": "Outlook"
+ },
+ {
+   "FIELD1": "Yahoo"
+ },
+ {
+   "FIELD1": "Business ID Theft"
+ },
+ {
+   "FIELD1": "TedED"
+ },
+ {
+   "FIELD1": "Visa "
+ },
+ {
+   "FIELD1": "American Express"
+ },
+ {
+   "FIELD1": "Mastercard"
+ },
+ {
+   "FIELD1": "Discover"
+ },
+ {
+   "FIELD1": "Capital One "
+ },
+ {
+   "FIELD1": "Chase"
+ },
+ {
+   "FIELD1": "Amazon"
+ },
+ {
+   "FIELD1": "Etsy"
+ },
+ {
+   "FIELD1": "Facebook Marketplace"
+ },
+ {
+   "FIELD1": "OfferUp"
+ },
+ {
+   "FIELD1": "APWG"
+ },
+ {
+   "FIELD1": "Econsumer.gov"
+ },
+ {
+   "FIELD1": "Apartment Finder"
+ },
+ {
+   "FIELD1": "Apartments.com"
+ },
+ {
+   "FIELD1": "Hotpads"
+ },
+ {
+   "FIELD1": "Realtor.com"
+ },
+ {
+   "FIELD1": "Rent.com"
+ },
+ {
+   "FIELD1": "Trulia"
+ },
+ {
+   "FIELD1": "Zillow"
+ },
+ {
+   "FIELD1": "US Department of Housing and Urban Development (HUD)"
+ },
+ {
+   "FIELD1": "Annual Credit Report"
+ },
+ {
+   "FIELD1": "Internal Revenue Service IRS"
+ },
+ {
+   "FIELD1": "TransUnion"
+ },
+ {
+   "FIELD1": "FRAUD!ORG"
+ },
+ {
+   "FIELD1": "Fraudsupport.org"
+ },
+ {
+   "FIELD1": "National Identity Theft Victims Assistance Network NITVAN"
+ },
+ {
+   "FIELD1": "Booking.com"
+ },
+ {
+   "FIELD1": "Expedia "
+ },
+ {
+   "FIELD1": "HomeAway"
+ },
+ {
+   "FIELD1": "Homestay"
+ },
+ {
+   "FIELD1": "HomeToGo"
+ },
+ {
+   "FIELD1": "Kayak"
+ },
+ {
+   "FIELD1": "RCI"
+ },
+ {
+   "FIELD1": "RedWeek"
+ },
+ {
+   "FIELD1": "Tripadvisor"
+ },
+ {
+   "FIELD1": "VRBO"
+ },
+ {
+   "FIELD1": "Windows"
+ },
+ {
+   "FIELD1": "Mastercard"
+ },
+ {
+   "FIELD1": "Mac (Apple)"
+ },
+ {
+   "FIELD1": "AT&T"
+ },
+ {
+   "FIELD1": "Cybersecurity and Infrastructure Security Agency CISA"
+ },
+ {
+   "FIELD1": "Comcast"
+ },
+ {
+   "FIELD1": "Stop.Think.Connect"
+ },
+ {
+   "FIELD1": "AVG Security"
+ },
+ {
+   "FIELD1": "WikiHow"
+ },
+ {
+   "FIELD1": "American Bankers Association "
+ },
+ {
+   "FIELD1": "Have I Been Pwned"
+ },
+ {
+   "FIELD1": "Apple"
+ },
+ {
+   "FIELD1": "Microsoft"
+ },
+ {
+   "FIELD1": "Snapchat"
+ },
+ {
+   "FIELD1": "Avast Blog"
+ },
+ {
+   "FIELD1": "Palo Alto Network"
+ },
+ {
+   "FIELD1": "GoToMeeting"
+ },
+ {
+   "FIELD1": "Skype"
+ },
+ {
+   "FIELD1": "Webex"
+ },
+ {
+   "FIELD1": "Zoom"
+ },
+ {
+   "FIELD1": "National Cybersecurity and Communication Integration Center (NCCIC)"
+ },
+ {
+   "FIELD1": "Phishing.org"
+ },
+ {
+   "FIELD1": "Federal Communications Commission (FCC)"
+ },
+ {
+   "FIELD1": "Social Security Administration (SS)"
+ },
+ {
+   "FIELD1": "Hiya"
+ },
+ {
+   "FIELD1": "Nomorobo"
+ },
+ {
+   "FIELD1": "RoboKiller"
+ },
+ {
+   "FIELD1": "Sprint"
+ },
+ {
+   "FIELD1": "T-Mobile"
+ },
+ {
+   "FIELD1": "Verizon"
+ },
+ {
+   "FIELD1": "US cellular"
+ },
+ {
+   "FIELD1": "IdentityTheft.gov"
+ },
+ {
+   "FIELD1": "National Suicide Prevention "
+ },
+ {
+   "FIELD1": "The Trevor Project"
+ },
+ {
+   "FIELD1": "National Center for Missing and Exploited Children(NCMEC)"
+ },
+ {
+   "FIELD1": "The National Human Trafficking"
+ },
+ {
+   "FIELD1": "StopBullying.gov"
+ },
+ {
+   "FIELD1": "CyberBully"
+ },
+ {
+   "FIELD1": "Crisis Text Line"
+ },
+ {
+   "FIELD1": "Net Cetera"
+ },
+ {
+   "FIELD1": "Substance Abuse and Mental Heath Services Administration (SAMHSA)"
+ },
+ {
+   "FIELD1": "Teens Against Bullying"
+ },
+ {
+   "FIELD1": "Stop Cyberbullying"
+ },
+ {
+   "FIELD1": "Office of the Inspector General (OIG)"
+ },
+ {
+   "FIELD1": "Consumer.gov"
+ },
+ {
+   "FIELD1": "Department of Health and Human Service  Inspector General(HHS)"
+ },
+ {
+   "FIELD1": "Centers for Medicare & Medicaid Services (CMS)"
+ },
+ {
+   "FIELD1": "National Domestic Violence"
+ },
+ {
+   "FIELD1": "Office for Victims of Crime"
+ },
+ {
+   "FIELD1": "Common Sense Media "
+ },
+ {
+   "FIELD1": "Internet Crimes Against Children Task Force Program (ICAC)"
+ },
+ {
+   "FIELD1": "Protect Us Kids"
+ },
+ {
+   "FIELD1": "National Education Association (NEA)"
+ },
+ {
+   "FIELD1": "FindLaw"
+ },
+ {
+   "FIELD1": "Tumblr"
+ },
+ {
+   "FIELD1": "State Attorneys General USAgov"
+ },
+ {
+   "FIELD1": "Protect Seniors Online"
+ },
+ {
+   "FIELD1": "eHarmony"
+ },
+ {
+   "FIELD1": "Match"
+ },
+ {
+   "FIELD1": "Plenty of Fish"
+ },
+ {
+   "FIELD1": "OurTime"
+ },
+ {
+   "FIELD1": "Tinder"
+ },
+ {
+   "FIELD1": "Zoosk"
+ },
+ {
+   "FIELD1": "Grindr"
+ },
+ {
+   "FIELD1": "Online Foreign Exchange (OFX)"
+ },
+ {
+   "FIELD1": "Venmo"
+ },
+ {
+   "FIELD1": "PayPal"
+ },
+ {
+   "FIELD1": "Zelle"
+ },
+ {
+   "FIELD1": "Google Images"
+ },
+ {
+   "FIELD1": "TinEye"
+ },
+ {
+   "FIELD1": "BeenVerified"
+ },
+ {
+   "FIELD1": "DMAchoice"
+ },
+ {
+   "FIELD1": "Victim Connect Resource Center"
+ },
+ {
+   "FIELD1": "The Balance Careers"
+ },
+ {
+   "FIELD1": "CareerBuilder"
+ },
+ {
+   "FIELD1": "Indeed"
+ },
+ {
+   "FIELD1": "Monster"
+ },
+ {
+   "FIELD1": "Zip Recruiter"
+ },
+ {
+   "FIELD1": "Charity Navigator"
+ },
+ {
+   "FIELD1": "Call For Action"
+ },
+ {
+   "FIELD1": "Brand Point"
+ },
+ {
+   "FIELD1": "Give.org"
+ },
+ {
+   "FIELD1": "CharityWatch"
+ },
+ {
+   "FIELD1": "Guide Star"
+ },
+ {
+   "FIELD1": "Credit.com"
+ },
+ {
+   "FIELD1": "Forbes"
+ },
+ {
+   "FIELD1": "Federal Student Aid"
+ },
+ {
+   "FIELD1": "College Parents of America"
+ },
+ {
+   "FIELD1": "CBS News"
+ },
+ {
+   "FIELD1": "Consumer Federation of America (CFA)"
+ },
+ {
+   "FIELD1": "Gift Card Fraud"
+ },
+ {
+   "FIELD1": "Google Play"
+ },
+ {
+   "FIELD1": "Military Consumer"
+ },
+ {
+   "FIELD1": "U.S. Army"
+ },
+ {
+   "FIELD1": "Broker Check"
+ },
+ {
+   "FIELD1": "FINRA"
+ },
+ {
+   "FIELD1": "Lottery.net"
+ },
+ {
+   "FIELD1": "okcupid"
+ },
+ {
+   "FIELD1": "Making Home Affordable (MHA)"
+ },
+ {
+   "FIELD1": "McAfee"
+ },
+ {
+   "FIELD1": "Dun&Bradstreet"
+ },
+ {
+   "FIELD1": "Cyber Readiness Institude"
+ },
+ {
+   "FIELD1": "National Council for the Social Studies (NCSS)"
+ },
+ {
+   "FIELD1": "Association of Certified Fraud Examiners (ACFE)"
+ },
+ {
+   "FIELD1": "SCORE"
+ },
+ {
+   "FIELD1": "Dow Jones"
+ },
+ {
+   "FIELD1": "National Conference Of State Legislatures (NCSL)"
+ },
+ {
+   "FIELD1": "KnowBe4"
+ },
+ {
+   "FIELD1": "Multi-State Information Sharing and Analysis Center (MS-ISAC)"
+ },
+ {
+   "FIELD1": "The National CyberSecurity Society"
+ },
+ {
+   "FIELD1": "Global Cyber Alliance (GCA)"
+ },
+ {
+   "FIELD1": "F-Secure"
+ },
+ {
+   "FIELD1": "Sophos "
+ },
+ {
+   "FIELD1": "ID Ransomware"
+ },
+ {
+   "FIELD1": "Malwarebytes"
+ },
+ {
+   "FIELD1": "Cricket Wireless"
+ },
+ {
+   "FIELD1": "NordVPN"
+ },
+ {
+   "FIELD1": "GoAskRose"
+ },
+ {
+   "FIELD1": "60 Minutes"
+ },
+ {
+   "FIELD1": "Centers for Medicare & Medicaid Services (CMS)"
+ },
+ {
+   "FIELD1": "Center for Cyber Safety and Education"
+ },
+ {
+   "FIELD1": "Zuky the Robot"
+ },
+ {
+   "FIELD1": "Money Talks News (MTN)"
+ },
+ {
+   "FIELD1": "National Adult Protective Services Association (NAPSA)"
+ },
+ {
+   "FIELD1": "Eldercare Locator"
+ },
+ {
+   "FIELD1": "U.S. Senate Special Committee on Aging"
+ },
+ {
+   "FIELD1": "U.S. Army Criminal Investigation Command"
+ },
+ {
+   "FIELD1": "Military Installations"
+ },
+ {
+   "FIELD1": "Naval Criminal Investigative Service (NCIS)"
+ },
+ {
+   "FIELD1": "Airforce: Office of Special Investigations (OSI)"
+ },
+ {
+   "FIELD1": "Military.com"
+ },
+ {
+   "FIELD1": "Symantec Corporation"
+ },
+ {
+   "FIELD1": "U.S. Army"
+ },
+ {
+   "FIELD1": "U.S. Navy"
+ },
+ {
+   "FIELD1": "U.S. Marines"
+ },
+ {
+   "FIELD1": "National Association of State Directors of Veterans Affairs (NASDVA)"
+ },
+ {
+   "FIELD1": "National Initiative For  Cybersecurity Careers And Studies (NICCS)"
+ },
+ {
+   "FIELD1": "U.S. Department Of Veterans Affair (VA)"
+ }
+]
